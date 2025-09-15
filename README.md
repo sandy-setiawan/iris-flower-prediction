@@ -7,8 +7,10 @@ The dataset used is the classic and widely known **Iris Dataset**.
 ## 🔧 Tools & Libraries
 - Python  
 - scikit-learn  
-- pandas  
-- numpy  
+- numpy
+- pandas
+- matplotlib
+- seaborn
 
 ## 🧠 Model
 Model used: **Decision Tree Classifier**  
